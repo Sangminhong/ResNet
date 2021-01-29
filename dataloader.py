@@ -97,11 +97,9 @@ labels5 = preprocess_l(batch5[b'labels'])
 
 
 train_images=np.concatenate((data1,data2,data3,data4,data5))
-#train_images = train_images.astype(np.float32)
 train_labels=np.concatenate((labels1,labels2,labels3,labels4,labels5))
 train_labels = train_labels.astype(np.long)
 test_images=preprocess_d(test_batch[b'data'])
-#test_images = test_images.astype(np.float32)
 test_labels = preprocess_l(test_batch[b'labels'])
 test_labels = test_labels.astype(np.long)
 
@@ -110,8 +108,7 @@ test_labels = test_labels.astype(np.long)
 trans = tr.Compose([
      tr.RandomCrop(32, padding=4),   # crop the given image at a random location
      tr.RandomHorizontalFlip(),      # Horizontally flip the given image randomly with given probability. default=0.5
-     
-     tr.ToTensor(),
+     ToTensor(),
      tr.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
  ])  
 
