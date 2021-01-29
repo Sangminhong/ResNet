@@ -1,0 +1,823 @@
+Current test epoch:  1
+Total test loss: 123.36314976215363
+Total test accuracy: 0.42 
+
+
+Current test epoch:  2
+Total test loss: 99.81176686286926
+Total test accuracy: 0.5573 
+
+
+Current test epoch:  3
+Total test loss: 83.3408562541008
+Total test accuracy: 0.624 
+
+
+Current test epoch:  4
+Total test loss: 72.32101231813431
+Total test accuracy: 0.6719 
+
+
+Current test epoch:  5
+Total test loss: 65.57100835442543
+Total test accuracy: 0.7109 
+
+
+Current test epoch:  6
+Total test loss: 61.252734661102295
+Total test accuracy: 0.7302 
+
+
+Current test epoch:  7
+Total test loss: 58.86744010448456
+Total test accuracy: 0.7443 
+
+
+Current test epoch:  8
+Total test loss: 56.906410574913025
+Total test accuracy: 0.7498 
+
+
+Current test epoch:  9
+Total test loss: 53.384514421224594
+Total test accuracy: 0.7669 
+
+
+Current test epoch:  10
+Total test loss: 51.499225318431854
+Total test accuracy: 0.7777 
+
+
+Current test epoch:  11
+Total test loss: 48.22042095661163
+Total test accuracy: 0.7924 
+
+
+Current test epoch:  12
+Total test loss: 50.092399924993515
+Total test accuracy: 0.7887 
+
+
+Current test epoch:  13
+Total test loss: 46.37358859181404
+Total test accuracy: 0.7984 
+
+
+Current test epoch:  14
+Total test loss: 45.55705991387367
+Total test accuracy: 0.8055 
+
+
+Current test epoch:  15
+Total test loss: 47.60681077837944
+Total test accuracy: 0.7966 
+
+
+Current test epoch:  16
+Total test loss: 44.44554275274277
+Total test accuracy: 0.8083 
+
+
+Current test epoch:  17
+Total test loss: 44.58607107400894
+Total test accuracy: 0.8108 
+
+
+Current test epoch:  18
+Total test loss: 42.738689601421356
+Total test accuracy: 0.8162 
+
+
+Current test epoch:  19
+Total test loss: 41.73413842916489
+Total test accuracy: 0.8246 
+
+
+Current test epoch:  20
+Total test loss: 42.21775820851326
+Total test accuracy: 0.8183 
+
+
+Current test epoch:  21
+Total test loss: 40.76620274782181
+Total test accuracy: 0.8235 
+
+
+Current test epoch:  22
+Total test loss: 40.201980262994766
+Total test accuracy: 0.8288 
+
+
+Current test epoch:  23
+Total test loss: 38.90529999136925
+Total test accuracy: 0.8328 
+
+
+Current test epoch:  24
+Total test loss: 39.4753135740757
+Total test accuracy: 0.8351 
+
+
+Current test epoch:  25
+Total test loss: 40.1299262046814
+Total test accuracy: 0.8327 
+
+
+Current test epoch:  26
+Total test loss: 37.68585076928139
+Total test accuracy: 0.8413 
+
+
+Current test epoch:  27
+Total test loss: 38.639086320996284
+Total test accuracy: 0.84 
+
+
+Current test epoch:  28
+Total test loss: 35.38923418521881
+Total test accuracy: 0.8524 
+
+
+Current test epoch:  29
+Total test loss: 38.22013385593891
+Total test accuracy: 0.8457 
+
+
+Current test epoch:  30
+Total test loss: 37.781013906002045
+Total test accuracy: 0.8431 
+
+
+Current test epoch:  31
+Total test loss: 38.20744460821152
+Total test accuracy: 0.8433 
+
+
+Current test epoch:  32
+Total test loss: 36.166297882795334
+Total test accuracy: 0.8536 
+
+
+Current test epoch:  33
+Total test loss: 37.34211069345474
+Total test accuracy: 0.844 
+
+
+Current test epoch:  34
+Total test loss: 36.894105672836304
+Total test accuracy: 0.8458 
+
+
+Current test epoch:  35
+Total test loss: 35.19712424278259
+Total test accuracy: 0.8548 
+
+
+Current test epoch:  36
+Total test loss: 34.965071856975555
+Total test accuracy: 0.854 
+
+
+Current test epoch:  37
+Total test loss: 35.280802115798
+Total test accuracy: 0.851 
+
+
+Current test epoch:  38
+Total test loss: 33.76893451809883
+Total test accuracy: 0.8569 
+
+
+Current test epoch:  39
+Total test loss: 39.93784090876579
+Total test accuracy: 0.8446 
+
+
+Current test epoch:  40
+Total test loss: 33.84296631813049
+Total test accuracy: 0.859 
+
+
+Current test epoch:  41
+Total test loss: 36.754634380340576
+Total test accuracy: 0.8451 
+
+
+Current test epoch:  42
+Total test loss: 35.87057329714298
+Total test accuracy: 0.8568 
+
+
+Current test epoch:  43
+Total test loss: 36.662578746676445
+Total test accuracy: 0.8524 
+
+
+Current test epoch:  44
+Total test loss: 34.02528701722622
+Total test accuracy: 0.8613 
+
+
+Current test epoch:  45
+Total test loss: 31.90681880712509
+Total test accuracy: 0.867 
+
+
+Current test epoch:  46
+Total test loss: 34.40860438346863
+Total test accuracy: 0.8595 
+
+
+Current test epoch:  47
+Total test loss: 36.26385548710823
+Total test accuracy: 0.8553 
+
+
+Current test epoch:  48
+Total test loss: 32.64790698885918
+Total test accuracy: 0.8693 
+
+
+Current test epoch:  49
+Total test loss: 33.140573009848595
+Total test accuracy: 0.868 
+
+
+Current test epoch:  50
+Total test loss: 32.38481517136097
+Total test accuracy: 0.8677 
+
+
+Current test epoch:  51
+Total test loss: 34.88755747675896
+Total test accuracy: 0.8614 
+
+
+Current test epoch:  52
+Total test loss: 34.06980502605438
+Total test accuracy: 0.8612 
+
+
+Current test epoch:  53
+Total test loss: 33.087792217731476
+Total test accuracy: 0.8663 
+
+
+Current test epoch:  54
+Total test loss: 34.301928251981735
+Total test accuracy: 0.8626 
+
+
+Current test epoch:  55
+Total test loss: 30.02825130522251
+Total test accuracy: 0.8773 
+
+
+Current test epoch:  56
+Total test loss: 33.80385100841522
+Total test accuracy: 0.8622 
+
+
+Current test epoch:  57
+Total test loss: 32.031093552708626
+Total test accuracy: 0.8669 
+
+
+Current test epoch:  58
+Total test loss: 32.166985884308815
+Total test accuracy: 0.8652 
+
+
+Current test epoch:  59
+Total test loss: 32.39111313223839
+Total test accuracy: 0.8657 
+
+
+Current test epoch:  60
+Total test loss: 32.76569113135338
+Total test accuracy: 0.8687 
+
+
+Current test epoch:  61
+Total test loss: 35.02455472946167
+Total test accuracy: 0.8604 
+
+
+Current test epoch:  62
+Total test loss: 30.73108944296837
+Total test accuracy: 0.8759 
+
+
+Current test epoch:  63
+Total test loss: 35.08546423912048
+Total test accuracy: 0.8564 
+
+
+Current test epoch:  64
+Total test loss: 34.650085404515266
+Total test accuracy: 0.8596 
+
+
+Current test epoch:  65
+Total test loss: 35.013626515865326
+Total test accuracy: 0.8559 
+
+
+Current test epoch:  66
+Total test loss: 31.910407155752182
+Total test accuracy: 0.8683 
+
+
+Current test epoch:  67
+Total test loss: 33.61740770936012
+Total test accuracy: 0.8667 
+
+
+Current test epoch:  68
+Total test loss: 34.068752229213715
+Total test accuracy: 0.8652 
+
+
+Current test epoch:  69
+Total test loss: 31.804712638258934
+Total test accuracy: 0.8632 
+
+
+Current test epoch:  70
+Total test loss: 32.12942077219486
+Total test accuracy: 0.8704 
+
+
+Current test epoch:  71
+Total test loss: 32.17594574391842
+Total test accuracy: 0.8708 
+
+
+Current test epoch:  72
+Total test loss: 31.145950630307198
+Total test accuracy: 0.8702 
+
+
+Current test epoch:  73
+Total test loss: 33.468022018671036
+Total test accuracy: 0.8671 
+
+
+Current test epoch:  74
+Total test loss: 31.3427537381649
+Total test accuracy: 0.8719 
+
+
+Current test epoch:  75
+Total test loss: 30.4905723631382
+Total test accuracy: 0.8768 
+
+
+Current test epoch:  76
+Total test loss: 31.902767702937126
+Total test accuracy: 0.8697 
+
+
+Current test epoch:  77
+Total test loss: 30.7007497549057
+Total test accuracy: 0.8733 
+
+
+Current test epoch:  78
+Total test loss: 33.1524313390255
+Total test accuracy: 0.8725 
+
+
+Current test epoch:  79
+Total test loss: 32.625882759690285
+Total test accuracy: 0.8688 
+
+
+Current test epoch:  80
+Total test loss: 32.04841333627701
+Total test accuracy: 0.871 
+
+
+Current test epoch:  81
+Total test loss: 30.5645784586668
+Total test accuracy: 0.8727 
+
+
+Current test epoch:  82
+Total test loss: 30.874116078019142
+Total test accuracy: 0.8753 
+
+
+Current test epoch:  83
+Total test loss: 23.513556256890297
+Total test accuracy: 0.907 
+
+
+Current test epoch:  84
+Total test loss: 22.45443343371153
+Total test accuracy: 0.9125 
+
+
+Current test epoch:  85
+Total test loss: 23.28464551270008
+Total test accuracy: 0.9131 
+
+
+Current test epoch:  86
+Total test loss: 23.082296043634415
+Total test accuracy: 0.915 
+
+
+Current test epoch:  87
+Total test loss: 22.324103266000748
+Total test accuracy: 0.9168 
+
+
+Current test epoch:  88
+Total test loss: 23.193190701305866
+Total test accuracy: 0.9138 
+
+
+Current test epoch:  89
+Total test loss: 23.217935644090176
+Total test accuracy: 0.9173 
+
+
+Current test epoch:  90
+Total test loss: 24.239510908722878
+Total test accuracy: 0.917 
+
+
+Current test epoch:  91
+Total test loss: 23.298611395061016
+Total test accuracy: 0.916 
+
+
+Current test epoch:  92
+Total test loss: 24.365034691989422
+Total test accuracy: 0.9159 
+
+
+Current test epoch:  93
+Total test loss: 25.99328000843525
+Total test accuracy: 0.9162 
+
+
+Current test epoch:  94
+Total test loss: 24.821302376687527
+Total test accuracy: 0.9182 
+
+
+Current test epoch:  95
+Total test loss: 24.54628098011017
+Total test accuracy: 0.9195 
+
+
+Current test epoch:  96
+Total test loss: 25.227721713483334
+Total test accuracy: 0.9177 
+
+
+Current test epoch:  97
+Total test loss: 24.61713644117117
+Total test accuracy: 0.9216 
+
+
+Current test epoch:  98
+Total test loss: 24.32172454893589
+Total test accuracy: 0.9188 
+
+
+Current test epoch:  99
+Total test loss: 24.39764951914549
+Total test accuracy: 0.9227 
+
+
+Current test epoch:  100
+Total test loss: 25.138000138103962
+Total test accuracy: 0.9196 
+
+
+Current test epoch:  101
+Total test loss: 26.195460356771946
+Total test accuracy: 0.9169 
+
+
+Current test epoch:  102
+Total test loss: 26.285708501935005
+Total test accuracy: 0.9163 
+
+
+Current test epoch:  103
+Total test loss: 26.33438766747713
+Total test accuracy: 0.9209 
+
+
+Current test epoch:  104
+Total test loss: 26.20939154177904
+Total test accuracy: 0.9222 
+
+
+Current test epoch:  105
+Total test loss: 28.84071248024702
+Total test accuracy: 0.9157 
+
+
+Current test epoch:  106
+Total test loss: 26.197627682238817
+Total test accuracy: 0.9202 
+
+
+Current test epoch:  107
+Total test loss: 28.591787107288837
+Total test accuracy: 0.9219 
+
+
+Current test epoch:  108
+Total test loss: 27.089559487998486
+Total test accuracy: 0.9216 
+
+
+Current test epoch:  109
+Total test loss: 27.6596782207489
+Total test accuracy: 0.9208 
+
+
+Current test epoch:  110
+Total test loss: 27.775743506848812
+Total test accuracy: 0.9196 
+
+
+Current test epoch:  111
+Total test loss: 28.440394952893257
+Total test accuracy: 0.9205 
+
+
+Current test epoch:  112
+Total test loss: 27.36488677188754
+Total test accuracy: 0.9221 
+
+
+Current test epoch:  113
+Total test loss: 28.657447032630444
+Total test accuracy: 0.9211 
+
+
+Current test epoch:  114
+Total test loss: 27.77950932830572
+Total test accuracy: 0.9214 
+
+
+Current test epoch:  115
+Total test loss: 28.40430649369955
+Total test accuracy: 0.9194 
+
+
+Current test epoch:  116
+Total test loss: 28.196290105581284
+Total test accuracy: 0.9204 
+
+
+Current test epoch:  117
+Total test loss: 29.680781930685043
+Total test accuracy: 0.9195 
+
+
+Current test epoch:  118
+Total test loss: 28.57605228573084
+Total test accuracy: 0.9202 
+
+
+Current test epoch:  119
+Total test loss: 27.72057192772627
+Total test accuracy: 0.9224 
+
+
+Current test epoch:  120
+Total test loss: 28.2737805172801
+Total test accuracy: 0.9217 
+
+
+Current test epoch:  121
+Total test loss: 26.746456183493137
+Total test accuracy: 0.9272 
+
+
+Current test epoch:  122
+Total test loss: 27.336484670639038
+Total test accuracy: 0.9229 
+
+
+Current test epoch:  123
+Total test loss: 27.78082835674286
+Total test accuracy: 0.9224 
+
+
+Current test epoch:  124
+Total test loss: 28.30835871398449
+Total test accuracy: 0.9244 
+
+
+Current test epoch:  125
+Total test loss: 27.982610389590263
+Total test accuracy: 0.9225 
+
+
+Current test epoch:  126
+Total test loss: 27.172506384551525
+Total test accuracy: 0.9248 
+
+
+Current test epoch:  127
+Total test loss: 30.094919428229332
+Total test accuracy: 0.9205 
+
+
+Current test epoch:  128
+Total test loss: 28.201100297272205
+Total test accuracy: 0.9228 
+
+
+Current test epoch:  129
+Total test loss: 27.76160901784897
+Total test accuracy: 0.9237 
+
+
+Current test epoch:  130
+Total test loss: 27.755176045000553
+Total test accuracy: 0.9211 
+
+
+Current test epoch:  131
+Total test loss: 27.523500613868237
+Total test accuracy: 0.9232 
+
+
+Current test epoch:  132
+Total test loss: 28.67906805872917
+Total test accuracy: 0.9206 
+
+
+Current test epoch:  133
+Total test loss: 29.31571400165558
+Total test accuracy: 0.9233 
+
+
+Current test epoch:  134
+Total test loss: 29.223935909569263
+Total test accuracy: 0.923 
+
+
+Current test epoch:  135
+Total test loss: 28.57478543370962
+Total test accuracy: 0.9228 
+
+
+Current test epoch:  136
+Total test loss: 28.370313078165054
+Total test accuracy: 0.9219 
+
+
+Current test epoch:  137
+Total test loss: 28.907328113913536
+Total test accuracy: 0.9233 
+
+
+Current test epoch:  138
+Total test loss: 28.11604654043913
+Total test accuracy: 0.9243 
+
+
+Current test epoch:  139
+Total test loss: 28.736556496471167
+Total test accuracy: 0.9229 
+
+
+Current test epoch:  140
+Total test loss: 29.22277231514454
+Total test accuracy: 0.9217 
+
+
+Current test epoch:  141
+Total test loss: 28.71461856365204
+Total test accuracy: 0.9227 
+
+
+Current test epoch:  142
+Total test loss: 29.238277040421963
+Total test accuracy: 0.9238 
+
+
+Current test epoch:  143
+Total test loss: 27.90003841370344
+Total test accuracy: 0.9238 
+
+
+Current test epoch:  144
+Total test loss: 29.398975491523743
+Total test accuracy: 0.9223 
+
+
+Current test epoch:  145
+Total test loss: 28.87045530229807
+Total test accuracy: 0.9238 
+
+
+Current test epoch:  146
+Total test loss: 28.997525468468666
+Total test accuracy: 0.924 
+
+
+Current test epoch:  147
+Total test loss: 28.54787241667509
+Total test accuracy: 0.923 
+
+
+Current test epoch:  148
+Total test loss: 29.09453686326742
+Total test accuracy: 0.924 
+
+
+Current test epoch:  149
+Total test loss: 29.287283152341843
+Total test accuracy: 0.9233 
+
+
+Current test epoch:  150
+Total test loss: 30.494129091501236
+Total test accuracy: 0.9232 
+
+
+Current test epoch:  151
+Total test loss: 29.09844832122326
+Total test accuracy: 0.9221 
+
+
+Current test epoch:  152
+Total test loss: 28.77750012278557
+Total test accuracy: 0.9246 
+
+
+Current test epoch:  153
+Total test loss: 29.142411947250366
+Total test accuracy: 0.9224 
+
+
+Current test epoch:  154
+Total test loss: 28.418258853256702
+Total test accuracy: 0.9225 
+
+
+Current test epoch:  155
+Total test loss: 29.531412787735462
+Total test accuracy: 0.9234 
+
+
+Current test epoch:  156
+Total test loss: 30.000056996941566
+Total test accuracy: 0.9205 
+
+
+Current test epoch:  157
+Total test loss: 30.934200435876846
+Total test accuracy: 0.9227 
+
+
+Current test epoch:  158
+Total test loss: 27.97639575600624
+Total test accuracy: 0.9264 
+
+
+Current test epoch:  159
+Total test loss: 29.89866515249014
+Total test accuracy: 0.9216 
+
+
+Current test epoch:  160
+Total test loss: 29.611847639083862
+Total test accuracy: 0.9215 
+
+
+Current test epoch:  161
+Total test loss: 30.35696393251419
+Total test accuracy: 0.9196 
+
+
+Current test epoch:  162
+Total test loss: 30.055556125938892
+Total test accuracy: 0.9244 
+
+
+Current test epoch:  163
+Total test loss: 30.41968258842826
+Total test accuracy: 0.9189 
+
+
+Current test epoch:  164
+Total test loss: 29.391547616571188
+Total test accuracy: 0.9243 
+
+
+Top1 accuracy: 0.9272
+Top5 accuracy: 0.92548
+Completed
