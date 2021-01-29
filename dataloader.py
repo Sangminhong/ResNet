@@ -19,8 +19,6 @@ class MyDataset (Dataset):
         self.transform = transform
         self.len = len(y_data)
         
-        
-
             
     def __getitem__(self, index):
         inputs, labels = self.x_data[index], np.array(self.y_data[index])
@@ -37,6 +35,7 @@ class MyDataset (Dataset):
 
 
 class ToTensor:
+    
     def __call__(self, sample):
        inputs, labels = sample
        inputs = torch.from_numpy(inputs)
@@ -111,6 +110,7 @@ trans = tr.Compose([
      ToTensor(),
      tr.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
  ])  
+
 
 #trainset = torchvision.datasets.CIFAR10(root='./data', train=True, download=True, transform=trans)
 
