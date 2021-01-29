@@ -28,3 +28,8 @@ Momentum: 0.9<br/>
 Batch size: 128<br/>
 Learning rate: 0.1->0.01->0.001<br/>
 Data augmentatation: 4pixels padded on each side, 32*32 random crop, horizontal flip.<br/>
+
+## Results
+The Result below is the best result obtained after several experiments.<br/>
+Top1 Accuracy: 0.9272 (Error: 7.28%)<br/>
+Top5 Accuracy: 0.92548 (Error: 7.452%)<br/>
