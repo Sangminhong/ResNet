@@ -1,0 +1,1644 @@
+Current train Epoch:  1
+Total train loss: 686.9948357343674
+Total train accuracy: 0.35446 
+
+
+Current test epoch:  1
+Total test loss: 119.7001062631607
+Total test accuracy: 0.4364 
+
+
+Current train Epoch:  2
+Total train loss: 664.9391313791275
+Total train accuracy: 0.36968 
+
+
+Current test epoch:  2
+Total test loss: 117.78400444984436
+Total test accuracy: 0.445 
+
+
+Current train Epoch:  3
+Total train loss: 528.3097566366196
+Total train accuracy: 0.50934 
+
+
+Current test epoch:  3
+Total test loss: 97.51345330476761
+Total test accuracy: 0.5565 
+
+
+Current train Epoch:  4
+Total train loss: 444.45427852869034
+Total train accuracy: 0.59538 
+
+
+Current test epoch:  4
+Total test loss: 83.24167168140411
+Total test accuracy: 0.6239 
+
+
+Current train Epoch:  5
+Total train loss: 390.8035435080528
+Total train accuracy: 0.64716 
+
+
+Current test epoch:  5
+Total test loss: 78.04045325517654
+Total test accuracy: 0.6548 
+
+
+Current train Epoch:  6
+Total train loss: 349.03185468912125
+Total train accuracy: 0.68498 
+
+
+Current test epoch:  6
+Total test loss: 70.81044834852219
+Total test accuracy: 0.6913 
+
+
+Current train Epoch:  7
+Total train loss: 318.2803547978401
+Total train accuracy: 0.71776 
+
+
+Current test epoch:  7
+Total test loss: 66.19424593448639
+Total test accuracy: 0.706 
+
+
+Current train Epoch:  8
+Total train loss: 298.4163407981396
+Total train accuracy: 0.7322 
+
+
+Current test epoch:  8
+Total test loss: 60.87197586894035
+Total test accuracy: 0.7381 
+
+
+Current train Epoch:  9
+Total train loss: 281.9279469549656
+Total train accuracy: 0.74972 
+
+
+Current test epoch:  9
+Total test loss: 55.003094255924225
+Total test accuracy: 0.764 
+
+
+Current train Epoch:  10
+Total train loss: 262.184953302145
+Total train accuracy: 0.7681 
+
+
+Current test epoch:  10
+Total test loss: 52.67072410881519
+Total test accuracy: 0.7663 
+
+
+Current train Epoch:  11
+Total train loss: 246.7564705312252
+Total train accuracy: 0.78222 
+
+
+Current test epoch:  11
+Total test loss: 53.253751158714294
+Total test accuracy: 0.7679 
+
+
+Current train Epoch:  12
+Total train loss: 239.23700779676437
+Total train accuracy: 0.78872 
+
+
+Current test epoch:  12
+Total test loss: 50.49045914411545
+Total test accuracy: 0.7842 
+
+
+Current train Epoch:  13
+Total train loss: 228.12011781334877
+Total train accuracy: 0.79892 
+
+
+Current test epoch:  13
+Total test loss: 49.6442976295948
+Total test accuracy: 0.7851 
+
+
+Current train Epoch:  14
+Total train loss: 218.3852741420269
+Total train accuracy: 0.80886 
+
+
+Current test epoch:  14
+Total test loss: 46.50312823057175
+Total test accuracy: 0.7963 
+
+
+Current train Epoch:  15
+Total train loss: 211.61222288012505
+Total train accuracy: 0.81366 
+
+
+Current test epoch:  15
+Total test loss: 45.02560877799988
+Total test accuracy: 0.807 
+
+
+Current train Epoch:  16
+Total train loss: 205.358464717865
+Total train accuracy: 0.82022 
+
+
+Current test epoch:  16
+Total test loss: 45.29606369137764
+Total test accuracy: 0.8071 
+
+
+Current train Epoch:  17
+Total train loss: 195.81531950831413
+Total train accuracy: 0.82652 
+
+
+Current test epoch:  17
+Total test loss: 44.89251405000687
+Total test accuracy: 0.8083 
+
+
+Current train Epoch:  18
+Total train loss: 192.39961370825768
+Total train accuracy: 0.83104 
+
+
+Current test epoch:  18
+Total test loss: 42.51534640789032
+Total test accuracy: 0.8161 
+
+
+Current train Epoch:  19
+Total train loss: 185.74389880895615
+Total train accuracy: 0.8377 
+
+
+Current test epoch:  19
+Total test loss: 43.38400653004646
+Total test accuracy: 0.8179 
+
+
+Current train Epoch:  20
+Total train loss: 182.1309562921524
+Total train accuracy: 0.83988 
+
+
+Current test epoch:  20
+Total test loss: 40.89438733458519
+Total test accuracy: 0.8231 
+
+
+Current train Epoch:  21
+Total train loss: 178.30726501345634
+Total train accuracy: 0.84326 
+
+
+Current test epoch:  21
+Total test loss: 40.70494386553764
+Total test accuracy: 0.8275 
+
+
+Current train Epoch:  22
+Total train loss: 172.44551195204258
+Total train accuracy: 0.84772 
+
+
+Current test epoch:  22
+Total test loss: 40.38178651034832
+Total test accuracy: 0.8268 
+
+
+Current train Epoch:  23
+Total train loss: 168.18787452578545
+Total train accuracy: 0.85216 
+
+
+Current test epoch:  23
+Total test loss: 42.71052375435829
+Total test accuracy: 0.8273 
+
+
+Current train Epoch:  24
+Total train loss: 169.22808620333672
+Total train accuracy: 0.85056 
+
+
+Current test epoch:  24
+Total test loss: 39.167298287153244
+Total test accuracy: 0.8377 
+
+
+Current train Epoch:  25
+Total train loss: 163.86324432492256
+Total train accuracy: 0.85666 
+
+
+Current test epoch:  25
+Total test loss: 39.34796667098999
+Total test accuracy: 0.838 
+
+
+Current train Epoch:  26
+Total train loss: 161.30328437685966
+Total train accuracy: 0.85938 
+
+
+Current test epoch:  26
+Total test loss: 41.562744945287704
+Total test accuracy: 0.8275 
+
+
+Current train Epoch:  27
+Total train loss: 158.36527517437935
+Total train accuracy: 0.8612 
+
+
+Current test epoch:  27
+Total test loss: 38.61566969752312
+Total test accuracy: 0.837 
+
+
+Current train Epoch:  28
+Total train loss: 156.09110045433044
+Total train accuracy: 0.86412 
+
+
+Current test epoch:  28
+Total test loss: 39.647523045539856
+Total test accuracy: 0.8327 
+
+
+Current train Epoch:  29
+Total train loss: 153.1354726999998
+Total train accuracy: 0.86562 
+
+
+Current test epoch:  29
+Total test loss: 38.53900919854641
+Total test accuracy: 0.8355 
+
+
+Current train Epoch:  30
+Total train loss: 147.84776724874973
+Total train accuracy: 0.86938 
+
+
+Current test epoch:  30
+Total test loss: 38.402998238801956
+Total test accuracy: 0.8356 
+
+
+Current train Epoch:  31
+Total train loss: 149.19171531498432
+Total train accuracy: 0.86814 
+
+
+Current test epoch:  31
+Total test loss: 36.28468827903271
+Total test accuracy: 0.8515 
+
+
+Current train Epoch:  32
+Total train loss: 146.5564897209406
+Total train accuracy: 0.8708 
+
+
+Current test epoch:  32
+Total test loss: 37.31230916082859
+Total test accuracy: 0.8434 
+
+
+Current train Epoch:  33
+Total train loss: 145.5544821470976
+Total train accuracy: 0.87158 
+
+
+Current test epoch:  33
+Total test loss: 38.15295588970184
+Total test accuracy: 0.8427 
+
+
+Current train Epoch:  34
+Total train loss: 140.6092454046011
+Total train accuracy: 0.87684 
+
+
+Current test epoch:  34
+Total test loss: 34.99667999148369
+Total test accuracy: 0.856 
+
+
+Current train Epoch:  35
+Total train loss: 137.1600212007761
+Total train accuracy: 0.87936 
+
+
+Current test epoch:  35
+Total test loss: 36.49582815170288
+Total test accuracy: 0.8428 
+
+
+Current train Epoch:  36
+Total train loss: 138.07927425205708
+Total train accuracy: 0.8796 
+
+
+Current test epoch:  36
+Total test loss: 35.866431534290314
+Total test accuracy: 0.8463 
+
+
+Current train Epoch:  37
+Total train loss: 137.87490149587393
+Total train accuracy: 0.87746 
+
+
+Current test epoch:  37
+Total test loss: 37.46747559309006
+Total test accuracy: 0.8452 
+
+
+Current train Epoch:  38
+Total train loss: 135.94440323114395
+Total train accuracy: 0.8796 
+
+
+Current test epoch:  38
+Total test loss: 37.31297245621681
+Total test accuracy: 0.8448 
+
+
+Current train Epoch:  39
+Total train loss: 133.11495399475098
+Total train accuracy: 0.88412 
+
+
+Current test epoch:  39
+Total test loss: 39.970518350601196
+Total test accuracy: 0.8364 
+
+
+Current train Epoch:  40
+Total train loss: 131.73648530244827
+Total train accuracy: 0.88372 
+
+
+Current test epoch:  40
+Total test loss: 38.37370762228966
+Total test accuracy: 0.8441 
+
+
+Current train Epoch:  41
+Total train loss: 129.31154181063175
+Total train accuracy: 0.88628 
+
+
+Current test epoch:  41
+Total test loss: 34.11258998513222
+Total test accuracy: 0.8574 
+
+
+Current train Epoch:  42
+Total train loss: 127.70242829620838
+Total train accuracy: 0.88616 
+
+
+Current test epoch:  42
+Total test loss: 35.54179945588112
+Total test accuracy: 0.8521 
+
+
+Current train Epoch:  43
+Total train loss: 128.67404635250568
+Total train accuracy: 0.88776 
+
+
+Current test epoch:  43
+Total test loss: 35.273222371935844
+Total test accuracy: 0.8535 
+
+
+Current train Epoch:  44
+Total train loss: 124.73437032103539
+Total train accuracy: 0.89012 
+
+
+Current test epoch:  44
+Total test loss: 32.451165571808815
+Total test accuracy: 0.865 
+
+
+Current train Epoch:  45
+Total train loss: 123.37465660274029
+Total train accuracy: 0.89066 
+
+
+Current test epoch:  45
+Total test loss: 34.70343714952469
+Total test accuracy: 0.855 
+
+
+Current train Epoch:  46
+Total train loss: 122.47021375596523
+Total train accuracy: 0.89128 
+
+
+Current test epoch:  46
+Total test loss: 31.830909624695778
+Total test accuracy: 0.8683 
+
+
+Current train Epoch:  47
+Total train loss: 120.07572901248932
+Total train accuracy: 0.89402 
+
+
+Current test epoch:  47
+Total test loss: 33.467732816934586
+Total test accuracy: 0.8658 
+
+
+Current train Epoch:  48
+Total train loss: 120.07898652553558
+Total train accuracy: 0.89384 
+
+
+Current test epoch:  48
+Total test loss: 32.95079055428505
+Total test accuracy: 0.8635 
+
+
+Current train Epoch:  49
+Total train loss: 119.12777702510357
+Total train accuracy: 0.89476 
+
+
+Current test epoch:  49
+Total test loss: 35.31960794329643
+Total test accuracy: 0.8584 
+
+
+Current train Epoch:  50
+Total train loss: 116.03602893650532
+Total train accuracy: 0.89862 
+
+
+Current test epoch:  50
+Total test loss: 34.88862793147564
+Total test accuracy: 0.8551 
+
+
+Current train Epoch:  51
+Total train loss: 119.43368820846081
+Total train accuracy: 0.89418 
+
+
+Current test epoch:  51
+Total test loss: 32.46945072710514
+Total test accuracy: 0.8649 
+
+
+Current train Epoch:  52
+Total train loss: 116.38500201702118
+Total train accuracy: 0.8971 
+
+
+Current test epoch:  52
+Total test loss: 35.43421782553196
+Total test accuracy: 0.8542 
+
+
+Current train Epoch:  53
+Total train loss: 115.88366316258907
+Total train accuracy: 0.89878 
+
+
+Current test epoch:  53
+Total test loss: 33.08984488248825
+Total test accuracy: 0.866 
+
+
+Current train Epoch:  54
+Total train loss: 114.69933559000492
+Total train accuracy: 0.89896 
+
+
+Current test epoch:  54
+Total test loss: 33.15957656502724
+Total test accuracy: 0.8676 
+
+
+Current train Epoch:  55
+Total train loss: 113.46677215397358
+Total train accuracy: 0.89928 
+
+
+Current test epoch:  55
+Total test loss: 32.41149252653122
+Total test accuracy: 0.8643 
+
+
+Current train Epoch:  56
+Total train loss: 111.93873324990273
+Total train accuracy: 0.90166 
+
+
+Current test epoch:  56
+Total test loss: 33.26428771018982
+Total test accuracy: 0.8651 
+
+
+Current train Epoch:  57
+Total train loss: 111.2209751456976
+Total train accuracy: 0.90348 
+
+
+Current test epoch:  57
+Total test loss: 35.48945727944374
+Total test accuracy: 0.8546 
+
+
+Current train Epoch:  58
+Total train loss: 109.14303974807262
+Total train accuracy: 0.90486 
+
+
+Current test epoch:  58
+Total test loss: 31.29119835793972
+Total test accuracy: 0.8701 
+
+
+Current train Epoch:  59
+Total train loss: 111.14912343025208
+Total train accuracy: 0.90056 
+
+
+Current test epoch:  59
+Total test loss: 31.30332463979721
+Total test accuracy: 0.8718 
+
+
+Current train Epoch:  60
+Total train loss: 111.38475695252419
+Total train accuracy: 0.90202 
+
+
+Current test epoch:  60
+Total test loss: 31.790535181760788
+Total test accuracy: 0.8682 
+
+
+Current train Epoch:  61
+Total train loss: 107.39918714761734
+Total train accuracy: 0.90504 
+
+
+Current test epoch:  61
+Total test loss: 34.944243267178535
+Total test accuracy: 0.8565 
+
+
+Current train Epoch:  62
+Total train loss: 108.25229106843472
+Total train accuracy: 0.9046 
+
+
+Current test epoch:  62
+Total test loss: 32.44453755021095
+Total test accuracy: 0.8672 
+
+
+Current train Epoch:  63
+Total train loss: 106.40608584135771
+Total train accuracy: 0.90632 
+
+
+Current test epoch:  63
+Total test loss: 33.6952506005764
+Total test accuracy: 0.859 
+
+
+Current train Epoch:  64
+Total train loss: 107.05424780398607
+Total train accuracy: 0.90572 
+
+
+Current test epoch:  64
+Total test loss: 31.8028647005558
+Total test accuracy: 0.872 
+
+
+Current train Epoch:  65
+Total train loss: 106.02420604228973
+Total train accuracy: 0.90632 
+
+
+Current test epoch:  65
+Total test loss: 31.613839343190193
+Total test accuracy: 0.8687 
+
+
+Current train Epoch:  66
+Total train loss: 105.17197255790234
+Total train accuracy: 0.90776 
+
+
+Current test epoch:  66
+Total test loss: 33.62931853532791
+Total test accuracy: 0.8622 
+
+
+Current train Epoch:  67
+Total train loss: 105.6034033447504
+Total train accuracy: 0.90808 
+
+
+Current test epoch:  67
+Total test loss: 32.498568803071976
+Total test accuracy: 0.868 
+
+
+Current train Epoch:  68
+Total train loss: 101.24746228009462
+Total train accuracy: 0.90958 
+
+
+Current test epoch:  68
+Total test loss: 32.28119370341301
+Total test accuracy: 0.8669 
+
+
+Current train Epoch:  69
+Total train loss: 102.92977544665337
+Total train accuracy: 0.90976 
+
+
+Current test epoch:  69
+Total test loss: 30.87981054186821
+Total test accuracy: 0.8749 
+
+
+Current train Epoch:  70
+Total train loss: 101.76470064371824
+Total train accuracy: 0.90934 
+
+
+Current test epoch:  70
+Total test loss: 32.67805764079094
+Total test accuracy: 0.867 
+
+
+Current train Epoch:  71
+Total train loss: 103.59867073595524
+Total train accuracy: 0.90856 
+
+
+Current test epoch:  71
+Total test loss: 40.14965286850929
+Total test accuracy: 0.8399 
+
+
+Current train Epoch:  72
+Total train loss: 101.6771368086338
+Total train accuracy: 0.9108 
+
+
+Current test epoch:  72
+Total test loss: 33.3385786563158
+Total test accuracy: 0.8627 
+
+
+Current train Epoch:  73
+Total train loss: 102.8883237093687
+Total train accuracy: 0.91052 
+
+
+Current test epoch:  73
+Total test loss: 33.323502868413925
+Total test accuracy: 0.8687 
+
+
+Current train Epoch:  74
+Total train loss: 101.56116787344217
+Total train accuracy: 0.91024 
+
+
+Current test epoch:  74
+Total test loss: 32.60838973522186
+Total test accuracy: 0.8641 
+
+
+Current train Epoch:  75
+Total train loss: 99.34810896217823
+Total train accuracy: 0.91298 
+
+
+Current test epoch:  75
+Total test loss: 32.1443794965744
+Total test accuracy: 0.8726 
+
+
+Current train Epoch:  76
+Total train loss: 98.73120519518852
+Total train accuracy: 0.91372 
+
+
+Current test epoch:  76
+Total test loss: 32.08129905164242
+Total test accuracy: 0.8717 
+
+
+Current train Epoch:  77
+Total train loss: 100.78959393501282
+Total train accuracy: 0.91052 
+
+
+Current test epoch:  77
+Total test loss: 31.867275550961494
+Total test accuracy: 0.8697 
+
+
+Current train Epoch:  78
+Total train loss: 99.67661508917809
+Total train accuracy: 0.91246 
+
+
+Current test epoch:  78
+Total test loss: 33.09853546321392
+Total test accuracy: 0.8662 
+
+
+Current train Epoch:  79
+Total train loss: 98.16310564428568
+Total train accuracy: 0.91316 
+
+
+Current test epoch:  79
+Total test loss: 29.49801318347454
+Total test accuracy: 0.8773 
+
+
+Current train Epoch:  80
+Total train loss: 99.14542523026466
+Total train accuracy: 0.91314 
+
+
+Current test epoch:  80
+Total test loss: 32.278071746230125
+Total test accuracy: 0.8651 
+
+
+Current train Epoch:  81
+Total train loss: 97.44723929464817
+Total train accuracy: 0.91354 
+
+
+Current test epoch:  81
+Total test loss: 31.510663121938705
+Total test accuracy: 0.8686 
+
+
+Current train Epoch:  82
+Total train loss: 96.81222627311945
+Total train accuracy: 0.9135 
+
+
+Current test epoch:  82
+Total test loss: 35.7894589304924
+Total test accuracy: 0.8547 
+
+
+Current train Epoch:  83
+Total train loss: 55.322579484432936
+Total train accuracy: 0.9515 
+
+
+Current test epoch:  83
+Total test loss: 22.729173704981804
+Total test accuracy: 0.9095 
+
+
+Current train Epoch:  84
+Total train loss: 40.12220402434468
+Total train accuracy: 0.96446 
+
+
+Current test epoch:  84
+Total test loss: 23.573361426591873
+Total test accuracy: 0.9079 
+
+
+Current train Epoch:  85
+Total train loss: 35.141028720885515
+Total train accuracy: 0.96894 
+
+
+Current test epoch:  85
+Total test loss: 23.087387137115
+Total test accuracy: 0.911 
+
+
+Current train Epoch:  86
+Total train loss: 31.71664549410343
+Total train accuracy: 0.97156 
+
+
+Current test epoch:  86
+Total test loss: 22.67493014782667
+Total test accuracy: 0.9122 
+
+
+Current train Epoch:  87
+Total train loss: 29.98626498505473
+Total train accuracy: 0.97372 
+
+
+Current test epoch:  87
+Total test loss: 22.493590027093887
+Total test accuracy: 0.9128 
+
+
+Current train Epoch:  88
+Total train loss: 27.574659779667854
+Total train accuracy: 0.97604 
+
+
+Current test epoch:  88
+Total test loss: 22.87501832842827
+Total test accuracy: 0.9182 
+
+
+Current train Epoch:  89
+Total train loss: 25.07482001185417
+Total train accuracy: 0.9775 
+
+
+Current test epoch:  89
+Total test loss: 23.188856706023216
+Total test accuracy: 0.9155 
+
+
+Current train Epoch:  90
+Total train loss: 22.456436917185783
+Total train accuracy: 0.98008 
+
+
+Current test epoch:  90
+Total test loss: 23.759562976658344
+Total test accuracy: 0.9158 
+
+
+Current train Epoch:  91
+Total train loss: 21.117857033386827
+Total train accuracy: 0.98092 
+
+
+Current test epoch:  91
+Total test loss: 23.699767351150513
+Total test accuracy: 0.9148 
+
+
+Current train Epoch:  92
+Total train loss: 20.433845199644566
+Total train accuracy: 0.9827 
+
+
+Current test epoch:  92
+Total test loss: 24.041391618549824
+Total test accuracy: 0.9187 
+
+
+Current train Epoch:  93
+Total train loss: 19.197202106937766
+Total train accuracy: 0.98324 
+
+
+Current test epoch:  93
+Total test loss: 24.674417071044445
+Total test accuracy: 0.9154 
+
+
+Current train Epoch:  94
+Total train loss: 17.24423285201192
+Total train accuracy: 0.9854 
+
+
+Current test epoch:  94
+Total test loss: 24.153884321451187
+Total test accuracy: 0.9183 
+
+
+Current train Epoch:  95
+Total train loss: 17.318843262270093
+Total train accuracy: 0.98522 
+
+
+Current test epoch:  95
+Total test loss: 24.744931384921074
+Total test accuracy: 0.9175 
+
+
+Current train Epoch:  96
+Total train loss: 15.82309784181416
+Total train accuracy: 0.98678 
+
+
+Current test epoch:  96
+Total test loss: 24.071244843304157
+Total test accuracy: 0.9205 
+
+
+Current train Epoch:  97
+Total train loss: 15.012580117210746
+Total train accuracy: 0.98672 
+
+
+Current test epoch:  97
+Total test loss: 25.24982901662588
+Total test accuracy: 0.9154 
+
+
+Current train Epoch:  98
+Total train loss: 14.595473028719425
+Total train accuracy: 0.98668 
+
+
+Current test epoch:  98
+Total test loss: 25.76696901023388
+Total test accuracy: 0.9177 
+
+
+Current train Epoch:  99
+Total train loss: 13.220455502625555
+Total train accuracy: 0.9881 
+
+
+Current test epoch:  99
+Total test loss: 25.36647117137909
+Total test accuracy: 0.9181 
+
+
+Current train Epoch:  100
+Total train loss: 13.452846888452768
+Total train accuracy: 0.9886 
+
+
+Current test epoch:  100
+Total test loss: 26.015875037759542
+Total test accuracy: 0.9189 
+
+
+Current train Epoch:  101
+Total train loss: 12.468522280454636
+Total train accuracy: 0.9887 
+
+
+Current test epoch:  101
+Total test loss: 27.078138783574104
+Total test accuracy: 0.9184 
+
+
+Current train Epoch:  102
+Total train loss: 11.774683920666575
+Total train accuracy: 0.99002 
+
+
+Current test epoch:  102
+Total test loss: 27.065676137804985
+Total test accuracy: 0.9166 
+
+
+Current train Epoch:  103
+Total train loss: 10.793954211752862
+Total train accuracy: 0.99054 
+
+
+Current test epoch:  103
+Total test loss: 28.410275045782328
+Total test accuracy: 0.9161 
+
+
+Current train Epoch:  104
+Total train loss: 10.252619560807943
+Total train accuracy: 0.99118 
+
+
+Current test epoch:  104
+Total test loss: 28.0262208878994
+Total test accuracy: 0.9172 
+
+
+Current train Epoch:  105
+Total train loss: 9.985738759860396
+Total train accuracy: 0.99152 
+
+
+Current test epoch:  105
+Total test loss: 28.298188343644142
+Total test accuracy: 0.918 
+
+
+Current train Epoch:  106
+Total train loss: 9.369708308950067
+Total train accuracy: 0.99176 
+
+
+Current test epoch:  106
+Total test loss: 27.914082549512386
+Total test accuracy: 0.9152 
+
+
+Current train Epoch:  107
+Total train loss: 9.613931251689792
+Total train accuracy: 0.99158 
+
+
+Current test epoch:  107
+Total test loss: 27.117429077625275
+Total test accuracy: 0.9188 
+
+
+Current train Epoch:  108
+Total train loss: 8.375007794238627
+Total train accuracy: 0.99298 
+
+
+Current test epoch:  108
+Total test loss: 28.960608683526516
+Total test accuracy: 0.9202 
+
+
+Current train Epoch:  109
+Total train loss: 8.682645929977298
+Total train accuracy: 0.99236 
+
+
+Current test epoch:  109
+Total test loss: 30.248356238007545
+Total test accuracy: 0.9155 
+
+
+Current train Epoch:  110
+Total train loss: 7.6669123187894
+Total train accuracy: 0.99352 
+
+
+Current test epoch:  110
+Total test loss: 29.51817725598812
+Total test accuracy: 0.9173 
+
+
+Current train Epoch:  111
+Total train loss: 6.664446064271033
+Total train accuracy: 0.9947 
+
+
+Current test epoch:  111
+Total test loss: 27.945183381438255
+Total test accuracy: 0.9223 
+
+
+Current train Epoch:  112
+Total train loss: 6.030519550666213
+Total train accuracy: 0.99518 
+
+
+Current test epoch:  112
+Total test loss: 28.49046979099512
+Total test accuracy: 0.9189 
+
+
+Current train Epoch:  113
+Total train loss: 5.803066916181706
+Total train accuracy: 0.99542 
+
+
+Current test epoch:  113
+Total test loss: 29.39187890291214
+Total test accuracy: 0.9179 
+
+
+Current train Epoch:  114
+Total train loss: 5.589298137463629
+Total train accuracy: 0.99576 
+
+
+Current test epoch:  114
+Total test loss: 28.430859573185444
+Total test accuracy: 0.9201 
+
+
+Current train Epoch:  115
+Total train loss: 6.059235990978777
+Total train accuracy: 0.99532 
+
+
+Current test epoch:  115
+Total test loss: 28.95532950758934
+Total test accuracy: 0.9185 
+
+
+Current train Epoch:  116
+Total train loss: 5.818580431863666
+Total train accuracy: 0.99546 
+
+
+Current test epoch:  116
+Total test loss: 28.355552665889263
+Total test accuracy: 0.922 
+
+
+Current train Epoch:  117
+Total train loss: 5.687343271449208
+Total train accuracy: 0.99562 
+
+
+Current test epoch:  117
+Total test loss: 27.726315282285213
+Total test accuracy: 0.9219 
+
+
+Current train Epoch:  118
+Total train loss: 5.416460655629635
+Total train accuracy: 0.99598 
+
+
+Current test epoch:  118
+Total test loss: 27.700114868581295
+Total test accuracy: 0.924 
+
+
+Current train Epoch:  119
+Total train loss: 5.371717287227511
+Total train accuracy: 0.99572 
+
+
+Current test epoch:  119
+Total test loss: 28.170046605169773
+Total test accuracy: 0.9213 
+
+
+Current train Epoch:  120
+Total train loss: 5.48795029707253
+Total train accuracy: 0.99604 
+
+
+Current test epoch:  120
+Total test loss: 27.227742567658424
+Total test accuracy: 0.921 
+
+
+Current train Epoch:  121
+Total train loss: 5.346726558171213
+Total train accuracy: 0.99558 
+
+
+Current test epoch:  121
+Total test loss: 29.147341012954712
+Total test accuracy: 0.9186 
+
+
+Current train Epoch:  122
+Total train loss: 4.917520605027676
+Total train accuracy: 0.99634 
+
+
+Current test epoch:  122
+Total test loss: 29.387143328785896
+Total test accuracy: 0.9168 
+
+
+Current train Epoch:  123
+Total train loss: 5.250744653865695
+Total train accuracy: 0.99596 
+
+
+Current test epoch:  123
+Total test loss: 27.954407796263695
+Total test accuracy: 0.923 
+
+
+Current train Epoch:  124
+Total train loss: 5.056366663426161
+Total train accuracy: 0.99594 
+
+
+Current test epoch:  124
+Total test loss: 29.070869833230972
+Total test accuracy: 0.9196 
+
+
+Current train Epoch:  125
+Total train loss: 4.808821206213906
+Total train accuracy: 0.99628 
+
+
+Current test epoch:  125
+Total test loss: 30.101200684905052
+Total test accuracy: 0.9181 
+
+
+Current train Epoch:  126
+Total train loss: 4.941541817970574
+Total train accuracy: 0.99656 
+
+
+Current test epoch:  126
+Total test loss: 29.686155445873737
+Total test accuracy: 0.9206 
+
+
+Current train Epoch:  127
+Total train loss: 4.833007817156613
+Total train accuracy: 0.99636 
+
+
+Current test epoch:  127
+Total test loss: 29.125461973249912
+Total test accuracy: 0.9211 
+
+
+Current train Epoch:  128
+Total train loss: 4.5429832264781
+Total train accuracy: 0.9968 
+
+
+Current test epoch:  128
+Total test loss: 29.753016367554665
+Total test accuracy: 0.9191 
+
+
+Current train Epoch:  129
+Total train loss: 4.6117596654221416
+Total train accuracy: 0.99652 
+
+
+Current test epoch:  129
+Total test loss: 29.272071212530136
+Total test accuracy: 0.9229 
+
+
+Current train Epoch:  130
+Total train loss: 4.733089734334499
+Total train accuracy: 0.99626 
+
+
+Current test epoch:  130
+Total test loss: 29.93064510822296
+Total test accuracy: 0.9194 
+
+
+Current train Epoch:  131
+Total train loss: 4.496762045659125
+Total train accuracy: 0.99674 
+
+
+Current test epoch:  131
+Total test loss: 28.2129929959774
+Total test accuracy: 0.9236 
+
+
+Current train Epoch:  132
+Total train loss: 4.6351754136849195
+Total train accuracy: 0.99636 
+
+
+Current test epoch:  132
+Total test loss: 30.78291244804859
+Total test accuracy: 0.9189 
+
+
+Current train Epoch:  133
+Total train loss: 4.5351890083402395
+Total train accuracy: 0.99672 
+
+
+Current test epoch:  133
+Total test loss: 28.85977691411972
+Total test accuracy: 0.9193 
+
+
+Current train Epoch:  134
+Total train loss: 4.366443490609527
+Total train accuracy: 0.99662 
+
+
+Current test epoch:  134
+Total test loss: 30.761131823062897
+Total test accuracy: 0.917 
+
+
+Current train Epoch:  135
+Total train loss: 4.263188298791647
+Total train accuracy: 0.9971 
+
+
+Current test epoch:  135
+Total test loss: 29.0200402662158
+Total test accuracy: 0.9225 
+
+
+Current train Epoch:  136
+Total train loss: 4.2014723643660545
+Total train accuracy: 0.99666 
+
+
+Current test epoch:  136
+Total test loss: 29.504850015044212
+Total test accuracy: 0.9216 
+
+
+Current train Epoch:  137
+Total train loss: 4.182315642014146
+Total train accuracy: 0.99704 
+
+
+Current test epoch:  137
+Total test loss: 28.67191156744957
+Total test accuracy: 0.922 
+
+
+Current train Epoch:  138
+Total train loss: 4.299720762297511
+Total train accuracy: 0.99682 
+
+
+Current test epoch:  138
+Total test loss: 29.702727869153023
+Total test accuracy: 0.9194 
+
+
+Current train Epoch:  139
+Total train loss: 4.292337301187217
+Total train accuracy: 0.99702 
+
+
+Current test epoch:  139
+Total test loss: 29.684129402041435
+Total test accuracy: 0.9216 
+
+
+Current train Epoch:  140
+Total train loss: 4.538516778498888
+Total train accuracy: 0.9964 
+
+
+Current test epoch:  140
+Total test loss: 30.62108901143074
+Total test accuracy: 0.9191 
+
+
+Current train Epoch:  141
+Total train loss: 4.1611775336787105
+Total train accuracy: 0.9969 
+
+
+Current test epoch:  141
+Total test loss: 30.05237416923046
+Total test accuracy: 0.9191 
+
+
+Current train Epoch:  142
+Total train loss: 4.055054900236428
+Total train accuracy: 0.99698 
+
+
+Current test epoch:  142
+Total test loss: 30.778241768479347
+Total test accuracy: 0.9194 
+
+
+Current train Epoch:  143
+Total train loss: 3.9300839584320784
+Total train accuracy: 0.99732 
+
+
+Current test epoch:  143
+Total test loss: 31.050792381167412
+Total test accuracy: 0.9181 
+
+
+Current train Epoch:  144
+Total train loss: 4.1680296182166785
+Total train accuracy: 0.99694 
+
+
+Current test epoch:  144
+Total test loss: 29.687877506017685
+Total test accuracy: 0.9205 
+
+
+Current train Epoch:  145
+Total train loss: 4.132509424118325
+Total train accuracy: 0.9968 
+
+
+Current test epoch:  145
+Total test loss: 29.69281792640686
+Total test accuracy: 0.9235 
+
+
+Current train Epoch:  146
+Total train loss: 3.933112679515034
+Total train accuracy: 0.9972 
+
+
+Current test epoch:  146
+Total test loss: 30.171007361263037
+Total test accuracy: 0.9207 
+
+
+Current train Epoch:  147
+Total train loss: 3.6359062523115426
+Total train accuracy: 0.99738 
+
+
+Current test epoch:  147
+Total test loss: 29.839372895658016
+Total test accuracy: 0.9235 
+
+
+Current train Epoch:  148
+Total train loss: 4.056454008095898
+Total train accuracy: 0.99706 
+
+
+Current test epoch:  148
+Total test loss: 28.446983337402344
+Total test accuracy: 0.9233 
+
+
+Current train Epoch:  149
+Total train loss: 3.989076371770352
+Total train accuracy: 0.99732 
+
+
+Current test epoch:  149
+Total test loss: 28.67273184657097
+Total test accuracy: 0.9222 
+
+
+Current train Epoch:  150
+Total train loss: 3.8523519784212112
+Total train accuracy: 0.99724 
+
+
+Current test epoch:  150
+Total test loss: 29.24790172278881
+Total test accuracy: 0.9204 
+
+
+Current train Epoch:  151
+Total train loss: 4.024098654103
+Total train accuracy: 0.9968 
+
+
+Current test epoch:  151
+Total test loss: 30.714524120092392
+Total test accuracy: 0.9199 
+
+
+Current train Epoch:  152
+Total train loss: 3.93085475708358
+Total train accuracy: 0.99728 
+
+
+Current test epoch:  152
+Total test loss: 29.84108892828226
+Total test accuracy: 0.9231 
+
+
+Current train Epoch:  153
+Total train loss: 3.620223394827917
+Total train accuracy: 0.9974 
+
+
+Current test epoch:  153
+Total test loss: 30.68414144217968
+Total test accuracy: 0.9194 
+
+
+Current train Epoch:  154
+Total train loss: 3.9248565770685673
+Total train accuracy: 0.99702 
+
+
+Current test epoch:  154
+Total test loss: 29.2458428889513
+Total test accuracy: 0.9196 
+
+
+Current train Epoch:  155
+Total train loss: 3.983218024717644
+Total train accuracy: 0.99702 
+
+
+Current test epoch:  155
+Total test loss: 31.19010965526104
+Total test accuracy: 0.9195 
+
+
+Current train Epoch:  156
+Total train loss: 3.7296986475703306
+Total train accuracy: 0.9973 
+
+
+Current test epoch:  156
+Total test loss: 29.82145244628191
+Total test accuracy: 0.922 
+
+
+Current train Epoch:  157
+Total train loss: 3.7492604115977883
+Total train accuracy: 0.9974 
+
+
+Current test epoch:  157
+Total test loss: 30.28932310640812
+Total test accuracy: 0.9215 
+
+
+Current train Epoch:  158
+Total train loss: 4.0296476343646646
+Total train accuracy: 0.99708 
+
+
+Current test epoch:  158
+Total test loss: 29.594699129462242
+Total test accuracy: 0.9243 
+
+
+Current train Epoch:  159
+Total train loss: 3.5944340815767646
+Total train accuracy: 0.99724 
+
+
+Current test epoch:  159
+Total test loss: 29.913643456995487
+Total test accuracy: 0.9236 
+
+
+Current train Epoch:  160
+Total train loss: 3.425673696678132
+Total train accuracy: 0.99756 
+
+
+Current test epoch:  160
+Total test loss: 30.155630566179752
+Total test accuracy: 0.9192 
+
+
+Current train Epoch:  161
+Total train loss: 3.673333017155528
+Total train accuracy: 0.99762 
+
+
+Current test epoch:  161
+Total test loss: 30.676437258720398
+Total test accuracy: 0.9187 
+
+
+Current train Epoch:  162
+Total train loss: 3.367157752625644
+Total train accuracy: 0.99742 
+
+
+Current test epoch:  162
+Total test loss: 31.024939484894276
+Total test accuracy: 0.9213 
+
+
+Current train Epoch:  163
+Total train loss: 3.732994789723307
+Total train accuracy: 0.99724 
+
+
+Current test epoch:  163
+Total test loss: 30.249008625745773
+Total test accuracy: 0.9192 
+
+
+Current train Epoch:  164
+Total train loss: 3.3123400607146323
+Total train accuracy: 0.99746 
+
+
+Current test epoch:  164
+Total test loss: 30.594090811908245
+Total test accuracy: 0.9215 
+
+Top1 accuracy: 0.9243
+Top5 accuracy: 0.9239
+
+
+Completed
