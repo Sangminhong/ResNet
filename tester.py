@@ -133,4 +133,4 @@ for epoch in range(164):
 
 print("Top1 accuracy:", max5[4])
 print("Top5 accuracy:", np.sum(max5)/5)    
-print("Completed")    
+print("Completed!")    
