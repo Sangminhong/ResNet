@@ -2,10 +2,13 @@ import torch
 import torch.optim as optim
 import torch.cuda as cuda
 import model
-import dataloader
+import dataloader 
 import torch.nn as nn
 from torch.autograd import Variable
 import numpy as np
+import torchvision.transforms as tr
+from torch.utils.data import DataLoader, Dataset
+from dataloader import MyDataset 
 
 net=model.ResNet56()
 device=cuda.device('cuda:0,1' if torch.cuda.is_available() else print('error'))
@@ -18,6 +21,30 @@ optimizer = optim.SGD(net.parameters(),lr=rate, momentum=0.9, weight_decay=0.000
 test_accuracy=0.0
 max5=np.zeros(5)
 
+
+trans = tr.Compose([
+     tr.RandomCrop(32, padding=4),   # crop the given image at a random location
+     tr.RandomHorizontalFlip(),      # Horizontally flip the given image randomly with given probability. default=0.5
+     tr.ToTensor(),
+     tr.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
+ ])  
+
+#trainset = torchvision.datasets.CIFAR10(root='./data', train=True, download=True, transform=trans)
+
+#testset = torchvision.datasets.CIFAR10(root='./data', train=False, download=True, transform=trans)
+
+trainset = dataloader.MyDataset(train=1, test=0, transform=trans)
+testset = dataloader.MyDataset(train=0, test=1, transform=trans)
+
+
+
+trainloader = DataLoader(trainset, batch_size=128, shuffle=True, num_workers=2)
+testloader = DataLoader(testset, batch_size=128, shuffle=True, num_workers=2)
+
+#first_data = trainset[0]
+#features, labels = first_data
+
+
 def train(epoch):
 
     #print("Current train Epoch: ", epoch+1)
@@ -25,7 +52,7 @@ def train(epoch):
     correct=0.0
     total=0.0
 
-    for i,data in enumerate(dataloader.trainloader, 0):
+    for i,data in enumerate(trainloader, 0):
         inputs, labels = data
         inputs, labels = inputs.cuda(), labels.cuda()
         optimizer.zero_grad()
@@ -62,7 +89,7 @@ def test(epoch):
     total = 0.0
  
 
-    for i,data in enumerate(dataloader.testloader, 0):
+    for i,data in enumerate(testloader, 0):
             inputs, labels = data
             inputs, labels = inputs.cuda(), labels.cuda()
             optimizer.zero_grad()
